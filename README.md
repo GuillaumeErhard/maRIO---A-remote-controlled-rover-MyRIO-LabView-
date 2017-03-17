@@ -4,7 +4,7 @@ A program to control remotly a robot, with a NI myRio, a PC or an Ipad via wifi,
 # Demo
 
 
-![Demo](https://cloud.githubusercontent.com/assets/25333848/24050251/8daa6d4c-0b2e-11e7-98cc-053ac0097eb5.gif)
+![Demo](https://cloud.githubusercontent.com/assets/25333848/24050718/0aa13b22-0b30-11e7-845c-60fe459a7b6e.gif)
 
 # Installation
 

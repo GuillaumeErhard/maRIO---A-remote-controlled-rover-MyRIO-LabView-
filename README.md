@@ -1,9 +1,10 @@
 # maRIO
 A program to control remotly a robot, with a NI myRio, a PC or an Ipad via wifi, and done under Labview and the National Instrument app. This project was done at the end of my bachelor degree, in a team a 5 person that I led. I also did 90 % of the code you can see here, as the woodworking necessary.
 
-# Pictures and video
+# Demo
 
 
+![Demo](https://cloud.githubusercontent.com/assets/25333848/24050251/8daa6d4c-0b2e-11e7-98cc-053ac0097eb5.gif)
 
 # Installation
 
